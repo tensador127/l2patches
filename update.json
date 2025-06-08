@@ -1,0 +1,40 @@
+{
+  "ip": "45.89.30.112",
+  "system_paths": [
+    "System"
+  ],
+  "external_paths": [
+    "SysTextures",
+    "Textures",
+    "L2text",
+    "Maps",
+    "Sounds",
+    "music",
+    "StaticMeshes",
+    "L2text_classic",
+    "Animations"
+  ],
+  "files": [
+    {
+      "fileName": "System\\l2.bin",
+      "SHA1": "REEMPLAZAR_SHA1_L2_BIN",
+      "URL_LINK": "https://tuservidor.com/files/System/l2.bin"
+    },
+    {
+      "fileName": "System\\l2.ini",
+      "SHA1": "REEMPLAZAR_SHA1_L2_INI",
+      "URL_LINK": "https://tuservidor.com/files/System/l2.ini"
+    },
+    {
+      "fileName": "System\\Interface.u",
+      "SHA1": "REEMPLAZAR_SHA1_INTERFACE_U",
+      "URL_LINK": "https://tuservidor.com/files/System/Interface.u"
+    },
+    {
+      "fileName": "System\\Interface.xdat",
+      "SHA1": "REEMPLAZAR_SHA1_INTERFACE_XDAT",
+      "URL_LINK": "https://tuservidor.com/files/System/Interface.xdat"
+    }
+  ],
+  "full_system_url": "https://tuservidor.com/files/update.json"
+}
