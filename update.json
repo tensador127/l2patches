@@ -17,23 +17,23 @@
   "files": [
     {
       "fileName": "System\\l2.bin",
-      "SHA1": "REEMPLAZAR_SHA1_L2_BIN",
-      "URL_LINK": "https://tuservidor.com/files/System/l2.bin"
+      "SHA1": "dd2f34daf5bc6a853f55d18110c00b012faa3efa",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/l2.bin"
     },
     {
       "fileName": "System\\l2.ini",
       "SHA1": "REEMPLAZAR_SHA1_L2_INI",
-      "URL_LINK": "https://tuservidor.com/files/System/l2.ini"
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/l2.ini"
     },
     {
       "fileName": "System\\Interface.u",
-      "SHA1": "REEMPLAZAR_SHA1_INTERFACE_U",
-      "URL_LINK": "https://tuservidor.com/files/System/Interface.u"
+      "SHA1": "2a55d191f91758319819b0f14b50a73d5bc5306b",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/Interface.u"
     },
     {
       "fileName": "System\\Interface.xdat",
-      "SHA1": "REEMPLAZAR_SHA1_INTERFACE_XDAT",
-      "URL_LINK": "https://tuservidor.com/files/System/Interface.xdat"
+      "SHA1": "c69ea343b47cb5e75ba59ed1c4136ace19feea77",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/Interface.xdat"
     }
   ],
   "full_system_url": "https://tuservidor.com/files/update.json"
