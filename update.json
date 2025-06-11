@@ -101,6 +101,26 @@
       "URL_LINK": "https://tensador127.github.io/l2patches/System/PatchSettings.ini"
     },
     {
+      "fileName": "System\\rev_buff.u",
+      "SHA1": "ef3248dab1cb5a585a7933f115be4a35f110a202",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/rev_buff.u"
+    },
+    {
+      "fileName": "System\\skillgrp.dat",
+      "SHA1": "522d4e41983ce662afbcea7ababf62018731f338",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/skillgrp.dat"
+    },
+    {
+      "fileName": "System\\skillname-e.dat",
+      "SHA1": "c27a106ddb8929e945cef8e5832f32e0d5489e9d",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/skillname-e.dat"
+    },
+    {
+      "fileName": "System\\skillsoundgrp.dat",
+      "SHA1": "43d8fc916017fd1e495a6ee0db59b5e024bd2916",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/skillsoundgrp.dat"
+    },
+    {
       "fileName": "System\\sysstring-e.dat",
       "SHA1": "4ccc06d97dd9a64507bb5d5c0b16f7ebcecec499",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/sysstring-e.dat"
