@@ -86,13 +86,18 @@
       "URL_LINK": "https://tensador127.github.io/l2patches/System/LineageWarrior.u"
     },
     {
+      "fileName": "System\\LotusCloak.u",
+      "SHA1": "7636609f85514ffdc33c0f478f67c2829b7f83bb",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusCloak.u"
+    },
+    {
       "fileName": "System\\LotusPanel.ini",
       "SHA1": "53bca829ea256d2d2ea874bb5a5fbeec2962c6d3",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusPanel.ini"
     },
     {
       "fileName": "System\\LotusSkin.u",
-      "SHA1": "af05c2396840368c840245acaa3f7312435bb414",
+      "SHA1": "0ec3f96f59cd8cd48bab475966fb367620805a88",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusSkin.u"
     },
     {
