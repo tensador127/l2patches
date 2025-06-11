@@ -16,6 +16,11 @@
   ],
   "files": [
     {
+      "fileName": "System\\armorgrp.dat",
+      "SHA1": "6e4f58295f5cac2f3fe0a179038fe00a81a8bdc3",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/armorgrp.dat"
+    },
+    {
       "fileName": "System\\AutoLoginUI.dll",
       "SHA1": "cdf5dec486bd6672abd029deefc1e66ff3a8aab7",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/AutoLoginUI.dll"
@@ -107,7 +112,7 @@
     },
     {
       "fileName": "System\\skillgrp.dat",
-      "SHA1": "522d4e41983ce662afbcea7ababf62018731f338",
+      "SHA1": "3e4dafb2715d91191c873ddc9ae5c48c00e2986e",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/skillgrp.dat"
     },
     {
@@ -117,7 +122,7 @@
     },
     {
       "fileName": "System\\skillsoundgrp.dat",
-      "SHA1": "43d8fc916017fd1e495a6ee0db59b5e024bd2916",
+      "SHA1": "3febb2ab9a8ff669054ec1f9f123b485f8fa04ca",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/skillsoundgrp.dat"
     },
     {
