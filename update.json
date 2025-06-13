@@ -17,7 +17,7 @@
   "files": [
     {
       "fileName": "System\\armorgrp.dat",
-      "SHA1": "6e4f58295f5cac2f3fe0a179038fe00a81a8bdc3",
+      "SHA1": "c5402bea02794882d69924372708629f381cde81",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/armorgrp.dat"
     },
     {
@@ -44,6 +44,11 @@
       "fileName": "System\\dsetup.dll",
       "SHA1": "95e1437833f4413b20be264f0237d4bc89074b3d",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/dsetup.dll"
+    },
+    {
+      "fileName": "System\\EisenCustom.u",
+      "SHA1": "7b14f6bee58dd5f30147efa0cc1dce48b12ec07e",
+      "URL_LINK": "https://www.mediafire.com/file/ohe33yrsugdwzau/EisenCustom.u/file"
     },
     {
       "fileName": "System\\GearScore.ini",
@@ -88,7 +93,7 @@
     {
       "fileName": "System\\LotusCloak.u",
       "SHA1": "7636609f85514ffdc33c0f478f67c2829b7f83bb",
-      "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusCloak.u"
+      "URL_LINK": "https://www.mediafire.com/file/89mi38jsjcpgn3i/LotusCloak.u/file"
     },
     {
       "fileName": "System\\LotusPanel.ini",
@@ -98,7 +103,7 @@
     {
       "fileName": "System\\LotusSkin.u",
       "SHA1": "a05ba24a7d177885eeff19b6a08b0dd9c2614811",
-      "URL_LINK": "https://www.mediafire.com/file/xpafc4m7bvhwzbs/LotusSkin.u/file"
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusSkin.u"
     },
     {
       "fileName": "System\\ogg.dll",
@@ -122,7 +127,7 @@
     },
     {
       "fileName": "System\\skillname-e.dat",
-      "SHA1": "c27a106ddb8929e945cef8e5832f32e0d5489e9d",
+      "SHA1": "d9cbd3ccd7af53e57ef70a0e0c288fbe57e736a5",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/skillname-e.dat"
     },
     {
