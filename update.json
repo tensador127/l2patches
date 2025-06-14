@@ -95,6 +95,11 @@
       "SHA1": "7636609f85514ffdc33c0f478f67c2829b7f83bb",
       "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/LotusCloak.u"
     },
+        {
+      "fileName": "System\\LotusJDK.u",
+      "SHA1": "e83786e1bfe5680930ef22cf970909165b9488bb",
+      "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/LotusJDK.u"
+    },
     {
       "fileName": "System\\LotusPanel.ini",
       "SHA1": "53bca829ea256d2d2ea874bb5a5fbeec2962c6d3",
