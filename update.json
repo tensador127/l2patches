@@ -17,7 +17,7 @@
   "files": [
     {
       "fileName": "System\\armorgrp.dat",
-      "SHA1": "3e8ffae0940fe09ba18d27a4cfb9a753de3516db",
+      "SHA1": "b26d5e1fc8550d0d0f0a73abd940bb9b4f2ecc8f",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/armorgrp.dat"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "fileName": "System\\EisenCustom.u",
-      "SHA1": "7b14f6bee58dd5f30147efa0cc1dce48b12ec07e",
+      "SHA1": "b58e0d0f6661a03b65e7534d7630f6f466244120",
       "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/EisenCustom.u"
     },
     {
