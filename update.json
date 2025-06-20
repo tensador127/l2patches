@@ -57,17 +57,17 @@
     },
     {
       "fileName": "System\\interface.u",
-      "SHA1": "b735b9806200cd3fb3db9148e53e127f3de968a4",
+      "SHA1": "ab65bde93c3cf3fc8f977689ea7459de086d2af7",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/interface.u"
     },
     {
       "fileName": "System\\interface.xdat",
-      "SHA1": "2ae3e038a959e5bb68923e7e77ac256908013d0f",
+      "SHA1": "8fa827d6e01ef040a183ad6cdecd3bdfe1bbe3f2",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/interface.xdat"
     },
     {
       "fileName": "System\\InterfaceLotus.dll",
-      "SHA1": "34e6c4a1947557902c0f573bd048a6f3f3288563",
+      "SHA1": "0a288411f179af74e92f925ea5fe2e3ccd784d3c",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/InterfaceLotus.dll"
     },
     {
@@ -95,6 +95,15 @@
       "SHA1": "7636609f85514ffdc33c0f478f67c2829b7f83bb",
       "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/LotusCloak.u"
     },
+
+    {
+      "fileName": "System\\LotusGear.u",
+      "SHA1": "54d0ef6742226af1ace908d84d82a59b8c556a8b",
+      "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/LotusGear.u"
+    },
+
+
+    
         {
       "fileName": "System\\LotusJDK.u",
       "SHA1": "e83786e1bfe5680930ef22cf970909165b9488bb",
