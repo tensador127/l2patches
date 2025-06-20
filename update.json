@@ -57,17 +57,17 @@
     },
     {
       "fileName": "System\\interface.u",
-      "SHA1": "25eb90584f1483eef1a0377ef0a2050597388dc1",
+      "SHA1": "e182d4013f12818e77b30a96e0655bbacf8d6def",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/interface.u"
     },
     {
       "fileName": "System\\interface.xdat",
-      "SHA1": "6f55a4a6a9c4e985426807a699303210bd08f49c",
+      "SHA1": "e0f930e8c6e1ccadc7266d2ffdc129ccd59a6114",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/interface.xdat"
     },
     {
       "fileName": "System\\InterfaceLotus.dll",
-      "SHA1": "9f75a60cfe2303b8e3bf482e8bba78be6bc90435",
+      "SHA1": "6cb9632dc3fb70532cf9a8d055e3aa4a686a486f",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/InterfaceLotus.dll"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "fileName": "System\\sysstring-e.dat",
-      "SHA1": "4ccc06d97dd9a64507bb5d5c0b16f7ebcecec499",
+      "SHA1": "b811be8f176ff83cd2171b415822bc9c7677ea15",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/sysstring-e.dat"
     }
   ],
