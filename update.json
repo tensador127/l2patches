@@ -105,16 +105,12 @@
       "SHA1": "7636609f85514ffdc33c0f478f67c2829b7f83bb",
       "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/LotusCloak.u"
     },
-
     {
       "fileName": "System\\LotusGear.u",
       "SHA1": "54d0ef6742226af1ace908d84d82a59b8c556a8b",
       "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/LotusGear.u"
-    },
-
-
-    
-        {
+    },  
+    {
       "fileName": "System\\LotusJDK.u",
       "SHA1": "e83786e1bfe5680930ef22cf970909165b9488bb",
       "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/LotusJDK.u"
