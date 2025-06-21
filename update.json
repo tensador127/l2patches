@@ -17,7 +17,7 @@
   "files": [
     {
       "fileName": "System\\armorgrp.dat",
-      "SHA1": "880d98bc35cbceb01afd874cd9fcd7f0aa88dc8a",
+      "SHA1": "6336e63cec5f9308a8f3340c5444255e6784876a",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/armorgrp.dat"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "fileName": "System\\DollSystem.ini",
-      "SHA1": "a53da065eaec7feac32869712ef3c3cfbba72f4b",
+      "SHA1": "0859db94b37b495e07de333a30046fd36f94641a",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/DollSystem.ini"
     },
     {
@@ -51,13 +51,18 @@
       "URL_LINK": "https://pub-37e13b60280f4cb19c87d72293a204d3.r2.dev/EisenCustom.u"
     },
     {
+      "fileName": "System\\etcitemgrp.dat",
+      "SHA1": "2c4180e2e8d417b6dbebe5d6adcf2f08c2d83676",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/etcitemgrp.dat"
+    },
+    {
       "fileName": "System\\GearScore.ini",
       "SHA1": "ca241caf237fe0c7b626174e4071b42e53d01350",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/GearScore.ini"
     },
     {
       "fileName": "System\\interface.u",
-      "SHA1": "839a3832d96cca27d82e98e12129b16db2db7692",
+      "SHA1": "fc217f0aa766b40338b1adc43afe982e7eae7c24",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/interface.u"
     },
     {
@@ -67,13 +72,18 @@
     },
     {
       "fileName": "System\\InterfaceLotus.dll",
-      "SHA1": "00f2129558ea40bf262d3c9b5c372ec2142a0d32",
+      "SHA1": "5103f6bc4a5e3b76e7e1c4dfd168a374f9c7a2f5",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/InterfaceLotus.dll"
     },
     {
       "fileName": "System\\ItemNameColor.ini",
-      "SHA1": "60b897764765757d6b3ad13daca760b570985005",
+      "SHA1": "3ae6872b992a5bc77de32d103b815b98f5065ee3",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/ItemNameColor.ini"
+    },
+    {
+      "fileName": "System\\itemname-e.dat",
+      "SHA1": "114b38a7874a77f1520d8afd53d313600ca4e2c0",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/itemname-e.dat"
     },
     {
       "fileName": "System\\L2.bin",
@@ -153,6 +163,11 @@
       "fileName": "System\\sysstring-e.dat",
       "SHA1": "b811be8f176ff83cd2171b415822bc9c7677ea15",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/sysstring-e.dat"
+    }
+    {
+      "fileName": "System\\weapongrp.dat",
+      "SHA1": "0827c857392095b09c516e9be72782eae82f7d75",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/weapongrp.dat"
     }
   ],
   "full_system_url": "https://tensador127.github.io/l2patches/update.json"
