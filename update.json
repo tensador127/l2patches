@@ -126,6 +126,16 @@
       "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusSkin.u"
     },
     {
+      "fileName": "System\\LotusTier.ini",
+      "SHA1": "2d215a18f0103358bb3e7384e829ac4f65236064",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusTier.ini"
+    },
+    {
+      "fileName": "System\\LotusTier.u",
+      "SHA1": "c92ec326fc4b0ab2199f0be29041f6996894c2bf",
+      "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusTier.u"
+    },
+    {
       "fileName": "System\\ogg.dll",
       "SHA1": "d3456c5064cc09454971cf9ef3c6f2cd77d2de5a",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/ogg.dll"
