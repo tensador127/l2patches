@@ -67,12 +67,12 @@
     },
     {
       "fileName": "System\\interface.xdat",
-      "SHA1": "3bc5bafecdbf823079486da2a12da960084ca5bf",
+      "SHA1": "e3dbc2b12687a660211d63881b2ecd138009df99",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/interface.xdat"
     },
     {
       "fileName": "System\\InterfaceLotus.dll",
-      "SHA1": "0bd36ec3bb530d140329a7ed9d9c3844fb16272e",
+      "SHA1": "9ebbb2764aef7a842e2e63140bf1dd29695d763d",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/InterfaceLotus.dll"
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "fileName": "System\\LotusTier.u",
-      "SHA1": "38a12a5fd073956e8b0e757d8e4dbb6bffb0be1e",
+      "SHA1": "d4833a871d26bf498d7effc055c1a82a455d30ff",
       "URL_LINK": "https://tensador127.github.io/l2patches/System/LotusTier.u"
     },
     {
